@@ -25,3 +25,13 @@
     System.out.println("Couleur : " + couleur);
     System.out.println("Vitesse actuelle : " + vitesse);
 ```
+
+**2 - Installer le plugin CheckStyle**
+
+**3 - Paramétrer l'outil d'inspection de code**
+
+**4 - Inspecter l’application avec CheckStyle et catégoriser les types d’erreurs identifiées, vérifier que cette analyse
+concorde avec votre analyse**
+- Problèmes d'indentation,
+- Commentaires manquants,
+- Espace manquant,
